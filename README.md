@@ -8,7 +8,7 @@
 - 🔭 **A Speaker:** CNCF & Linux Foundation Kubecon, CloudNativeCon, HITB, BlackHat, WHC, CIS, KCON ...
 
 <details>
-<summary> <b> 🍀 More About Neargle </b> </summary>
+<summary> <b> 🌱 More About Neargle </b> </summary>
 
 <!-- more starts -->
 
