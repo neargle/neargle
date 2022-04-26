@@ -6,9 +6,10 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/neargle?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=TOTAL%20STARS&logo=github&style=flat-square)](https://github.com/neargle#profile-last)
 
 - 💻 **A develper:** [**📦 CDK**](https://github.com/cdk-team/CDK)(Make security testing of K8s, Docker, and Containerd easier), [**🔎 crx-scouter.js**](https://github.com/neargle/crx-scouter)(Know U Have Installed These Chrome Extensions Below), 🛰 Github Mars Helicopter Contributor... 
-- 🔭 **A Speaker:** CNCF & Linux Foundation Kubecon, CloudNativeCon, HITB, BlackHat, WHC, CIS, KCON ...
+- 🔭 **A Speaker:** ☁️CNCF(云原生计算基金会) & Linux Foundation(Linux基金会的)的 Kubecon 和 CloudNativeCon; 🎩 信息安全领域的 HITB, BlackHat, WHC, CIS, KCON ...
 
-<details>
+<details> 
+<div id="profile-last"></div>
 <summary> <b> 🌱 More About Neargle </b> </summary>
 
 <!-- more starts -->
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="profile-last"></div>
+
