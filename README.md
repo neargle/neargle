@@ -2,10 +2,11 @@
 
 ### REAL-TIME DATA / 实时数据
 
-[![GitHub Org's stars](https://img.shields.io/github/stars/cdk-team?label=%E2%AD%90%EF%B8%8FCDK%27S%20STARS&style=flat-square)](https://github.com/cdk-team/CDK)
-[![GitHub Org's stars](https://img.shields.io/github/stars/YSRC?label=%E2%AD%90%EF%B8%8FLYSEC-PROJECT%27S%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
+[![GitHub Org's stars](https://img.shields.io/github/stars/cdk-team?label=%E2%AD%90%EF%B8%8F+CDK%27S%20STARS&style=flat-square)](https://github.com/cdk-team/CDK)
+[![GitHub Org's stars](https://img.shields.io/github/stars/YSRC?label=%E2%AD%90%EF%B8%8F+LYSEC-PROJECT%27S%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
 [![GitHub all releases](https://img.shields.io/github/downloads/CDK-TEAM/CDK/total?label=%F0%9F%93%A6RELEASE%20DOWNLOAD&style=flat-square&color=blue)](https://github.com/cdk-team/CDK/releases) 
-[![GitHub User's stars](https://img.shields.io/github/stars/neargle?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=TOTAL%20STARS&logo=github&style=flat-square)](https://github.com/neargle#profile-last)
+[![GitHub User's stars](https://img.shields.io/github/stars/neargle?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+TOTAL%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
+[![GitHub User's stars](https://badges.pufler.dev/visits/neargle/neargle?color=blue&label=👁+My+Guest&style=flat-square)](https://github.com/neargle)
 
 ### SPOKEN AT CONFERENCES, AFTER 2020 
 
