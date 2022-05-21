@@ -22,10 +22,10 @@ CNCF & Linux Foundation
 </th>
 <tr>
 <td>
-<img src="./mdimg/20220521123149.png" height="40"> <img src="./mdimg/20220521122243.png" height="40"> <img src="./mdimg/20220521230036.png" height="40"> <img src="./mdimg/20220521225818.png" height="40">
+<img src="./mdimg/20220521123149.png" height="30"> <img src="./mdimg/20220521122243.png" height="30"> <img src="./mdimg/20220521230036.png" height="30"> <img src="./mdimg/20220521225818.png" height="30">
 </td>
 <td>
-<img src="./mdimg/20220521115419.png" height="40">
+<img src="./mdimg/20220521115419.png" height="30">
 </td>
 </tr>
 <tr>
