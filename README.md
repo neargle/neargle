@@ -8,7 +8,7 @@
 [![GitHub User's stars](https://img.shields.io/github/stars/neargle?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+TOTAL%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
 [![GitHub User's stars](https://badges.pufler.dev/visits/neargle/neargle?color=blue&label=👁+My+Guest&style=flat-square)](https://github.com/neargle)
 
-### SPOKEN AT CONFERENCES, AFTER 2020 
+### 会议分享 / SPOKEN AT CONFERENCES, AFTER 2020 
 
 |Security Conference|CNCF & Linux Foundation|
 |-|-|
@@ -18,7 +18,7 @@
 
 <!-- &nbsp; <br> [![Spotify]()]() -->
 
-### CONTRIBUTED AT OPEN SOURCE COMMUNITY RECENTLY
+### 目前开源精力 / CONTRIBUTED AT OPEN SOURCE COMMUNITY RECENTLY
 
 - <p> <a href="https://github.com/cdk-team/CDK"> <img src="./mdimg/20220521230825.png" height="15"> </a> <b>主研和持续维护 <a href="https://github.com/cdk-team/CDK">CDK</a></b>：一款可爱、持续迭代的容器和Kubernetes安全工具</p>
 - <p> <a href="https://github.com/opensec-cn"> <img src="./mdimg/20220521231424.png" height="15"> </a> <b><a href="https://github.com/opensec-cn">OPENSEC TEAM </a>成员</b>：五个可爱、强大、富有创造力的小伙伴（现在老了）</p>
