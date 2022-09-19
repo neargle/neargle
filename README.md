@@ -1,6 +1,6 @@
 ## About " nearg1e " <a href="https://github.com/neargle/"><img height="30" src="./mdimg/kyubey.gif"></a>
 
-### REAL-TIME DATA / 实时数据
+### 实时数据 / REAL-TIME DATA
 
 [![GitHub Org's stars](https://img.shields.io/github/stars/cdk-team?label=%E2%AD%90%EF%B8%8F+CDK%27S%20STARS&style=flat-square)](https://github.com/cdk-team/CDK)
 [![GitHub Org's stars](https://img.shields.io/github/stars/YSRC?label=%E2%AD%90%EF%B8%8F+LYSEC-PROJECT%27S%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
