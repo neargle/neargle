@@ -21,12 +21,12 @@
 
 <!-- &nbsp; <br> [![Spotify]()]() -->
 
-***🤲 目前开源精力 | CONTRIBUTED AT OPEN SOURCE COMMUNITY RECENTLY***
+### 🤲 目前开源精力 | CONTRIBUTED AT OPEN SOURCE COMMUNITY RECENTLY
 
-- <p> <a href="https://github.com/cdk-team/CDK"> <img src="./mdimg/20220521230825.png" height="15"> </a> <b>主研和持续维护 <a href="https://github.com/cdk-team/CDK">CDK</a></b>：一款可爱、持续迭代的容器和Kubernetes安全工具</p>
-- <p> <a href="https://github.com/opensec-cn"> <img src="./mdimg/20220521231424.png" height="15"> </a> <b><a href="https://github.com/opensec-cn">OPENSEC TEAM </a>成员</b>：五个可爱、强大、富有创造力的小伙伴（现在老了）</p>
+<p> <a href="https://github.com/cdk-team/CDK"> <img src="./mdimg/20220521230825.png" height="15"> </a> <b>主研和持续维护 <a href="https://github.com/cdk-team/CDK">CDK</a></b>：一款可爱、持续迭代的容器和Kubernetes安全工具</p>
+<p> <a href="https://github.com/opensec-cn"> <img src="./mdimg/20220521231424.png" height="15"> </a> <b><a href="https://github.com/opensec-cn">OPENSEC TEAM </a>成员</b>：五个可爱、强大、富有创造力的小伙伴（现在老了）</p>
 
-*NOTE🔎 : 部分主研的开源项目目前已 ARCHIVED*
+***🔎 NOTE :** 部分主研的开源项目目前已 ARCHIVED*
 
 <!-- more ends -->
 
