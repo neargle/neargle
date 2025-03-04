@@ -9,6 +9,7 @@
 ## 历史存档
 
 ### 一岁的时候
+<img src="https://github.com/user-attachments/assets/ca190e02-dfda-48b7-9b2f-0427d32a7e3a" width="90%"></img> 
 <img src="https://github.com/user-attachments/assets/b2d7ac9f-2425-40d3-a575-b86ddb421bff" width="90%"></img> 
 <img src="https://github.com/user-attachments/assets/2c705a40-b5dd-433d-bce4-1c7933ae194a" width="90%"></img> 
 
