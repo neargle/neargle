@@ -4,7 +4,9 @@
 - 🗓 生辰八字：6月15日出生，属兔，猫妈妈这一胎就她一只。两岁十斤，正在成长为胖狸花猫的路上（暹罗特性：变黑🤦‍♀️）。
 
 ## 本周更新
-<img src="https://github.com/user-attachments/assets/ca190e02-dfda-48b7-9b2f-0427d32a7e3a" width="90%"></img> 
+<img src="https://github.com/user-attachments/assets/de891cde-aad3-47cc-bca7-b1f4857e7af2" width="90%"></img> 
+<img src="https://github.com/user-attachments/assets/dbeb44b4-727d-43a0-be18-828c9353605e" width="90%"></img> 
+<img src="https://github.com/user-attachments/assets/13754469-48e1-474c-9ebd-8a0e098cc004" width="90%"></img> 
 
 ## 历史存档
 
