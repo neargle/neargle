@@ -1,6 +1,6 @@
 ## About " nearg1e " <a href="https://github.com/neargle/"><img height="30" src="./mdimg/kyubey.gif"></a>
 
-[🐈 每周更新猫片](https://github.com/neargle/neargle/blob/main/cat.md) 
+[🐈 每周更新猫片](https://github.com/neargle/neargle/blob/main/cat.md) | [🐮 推荐一些技术社群](https://github.com/neargle/neargle/blob/main/top-recs-zsxq.md)
 
 ### 📊 实时数据 | REAL-TIME DATA
 
