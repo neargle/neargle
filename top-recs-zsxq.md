@@ -33,10 +33,6 @@
 
 <!-- blog ends -->
 </td>
-<td valign="top" width="33%">
-<!-- tils starts -->
-<!-- tils ends -->
-</td>
 
 </tr></table>
 

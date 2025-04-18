@@ -6,6 +6,7 @@
 
 ## 本周更新
 
+<img src="./mdimg/image.png" width="90%"></img>
 
 <img src="https://github.com/user-attachments/assets/2ad88def-d569-40c5-b514-aa09e9522a0b" width="90%"></img>
 
