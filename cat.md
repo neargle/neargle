@@ -6,13 +6,15 @@
 
 ## 本周更新
 
-<img src="./mdimg/image.png" width="90%"></img>
-
-<img src="https://github.com/user-attachments/assets/2ad88def-d569-40c5-b514-aa09e9522a0b" width="90%"></img>
+<img src="./mdimg/image-425.png" width="90%"></img>
 
 ## 历史存档
 
 ### 两岁的时候
+
+<img src="./mdimg/image.png" width="90%"></img>
+
+<img src="https://github.com/user-attachments/assets/2ad88def-d569-40c5-b514-aa09e9522a0b" width="90%"></img>
 
 <img src="https://github.com/user-attachments/assets/1b712ddd-a110-4c18-aea6-f4914df8dc71" width="90%"></img>
 <img src="https://github.com/user-attachments/assets/ff29bd11-5582-4a1a-9b1f-a034398e1ed4" width="90%"></img>
