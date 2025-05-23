@@ -6,12 +6,13 @@
 
 ## 本周更新
 
-<img src="./mdimg/image-509.png" width="90%"></img>
-
+<img src="https://github.com/user-attachments/assets/cc3c2f90-b4f3-41c8-b8e5-7ebe7e99cd9e" width="90%"></img>
 
 ## 历史存档
 
 ### 两岁的时候
+
+<img src="./mdimg/image-509.png" width="90%"></img>
 
 <img src="./mdimg/image-425.png" width="90%"></img>
 
