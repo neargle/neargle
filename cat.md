@@ -1,17 +1,24 @@
 #  猫咪画廊
 
+## 小猫资料
+
 - 🐈 俺的名字：fufu，女孩子，祖籍泰国，是一只 _**淡蓝**色 **虎**斑 **暹**罗_ 猫（以上都是细分品种名🤣）。   
 - 🗓 生辰八字：6月15日出生，属兔，猫妈妈这一胎就她一只。两岁十斤，正在成长为胖狸花猫的路上（暹罗特性：变黑🤦‍♀️）。
 - ♾️ 每周更新小猫的链接： http://mhz.pw/Eve
 
+## 小猫证件照
+<img src="https://github.com/user-attachments/assets/e873c866-20b3-4437-8058-cd9995ae0cd4" width="20%"></img>
+
+
 ## 本周更新
 
-<img src="https://github.com/user-attachments/assets/ba9232eb-4eef-4b31-99e5-c5143ebdf5b5" width="90%"></img>
+<img src="https://github.com/user-attachments/assets/43d619b7-b357-40c5-9449-b3de2f474922" width="90%"></img>
 
 ## 历史存档
 
 ### 三岁的时候
 
+<img src="https://github.com/user-attachments/assets/ba9232eb-4eef-4b31-99e5-c5143ebdf5b5" width="90%"></img>
 <img src="mdimg/image-613.png" width="90%"></img>
 <img src="https://github.com/user-attachments/assets/cc3c2f90-b4f3-41c8-b8e5-7ebe7e99cd9e" width="90%"></img>
 
@@ -41,6 +48,7 @@
 <img src="https://github.com/user-attachments/assets/8be0730e-abcb-4132-ab31-50ab8c25a01e" width="90%"></img> 
 
 ### 一岁的时候
+
 <img src="https://github.com/user-attachments/assets/ca190e02-dfda-48b7-9b2f-0427d32a7e3a" width="90%"></img> 
 <img src="https://github.com/user-attachments/assets/b2d7ac9f-2425-40d3-a575-b86ddb421bff" width="90%"></img> 
 <img src="https://github.com/user-attachments/assets/2c705a40-b5dd-433d-bce4-1c7933ae194a" width="90%"></img> 
