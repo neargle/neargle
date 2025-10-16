@@ -4,13 +4,13 @@
 
 - 🐈 俺的名字：fufu，女孩子，祖籍泰国，是一只 _**淡蓝**色 **虎**斑 **暹**罗_ 猫（以上都是细分品种名🤣）。   
 - 🗓 生辰八字：6月15日出生，属兔，猫妈妈这一胎就她一只。两岁十斤，正在成长为胖狸花猫的路上（暹罗特性：变黑🤦‍♀️）。
-- ♾️ 每周更新小猫的链接： http://mhz.pw/Eve
+- ♾️ 每周更新小猫的短链接： http://mhz.pw/Eve
 
 ## 小猫证件照
 <img src="https://github.com/user-attachments/assets/e873c866-20b3-4437-8058-cd9995ae0cd4" width="20%"></img>
 
-
 ## 本周更新
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneargle%2Fneargle%2Fblob%2Fmain%2Fcat.md&label=Cat+Hits&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 
 <img src="https://github.com/user-attachments/assets/43d619b7-b357-40c5-9449-b3de2f474922" width="90%"></img>
 
