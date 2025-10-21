@@ -8,9 +8,9 @@
 [![GitHub Org's stars](https://img.shields.io/github/stars/YSRC?label=%E2%AD%90%EF%B8%8F+LYSEC-PROJECT%27S%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
 [![GitHub all releases](https://img.shields.io/github/downloads/CDK-TEAM/CDK/total?label=%F0%9F%93%A6++RELEASE%20DOWNLOAD&style=flat-square&color=blue)](https://github.com/cdk-team/CDK/releases) 
 [![GitHub User's stars](https://img.shields.io/github/stars/neargle?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=%E2%AD%90%EF%B8%8F+TOTAL%20STARS&style=flat-square)](https://github.com/neargle#profile-last)
+[![HITS](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneargle&label=+HITS&icon=github&color=%230a58ca&message=&style=flat-square&tz=UTC)](https://github.com/neargle)
 
 ### 📣 会议分享 | SPOKEN AT CONFERENCES, AFTER 2020 
-
 
 |[Security Conference](https://github.com/neargle/my-re0-k8s-security/tree/main/slide)|CNCF & Linux Foundation|
 |-|-|
