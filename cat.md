@@ -12,12 +12,13 @@
 ## 本周更新
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneargle%2Fneargle%2Fblob%2Fmain%2Fcat.md&label=Cat+Hits&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 
-<img src="https://github.com/user-attachments/assets/43d619b7-b357-40c5-9449-b3de2f474922" width="90%"></img>
+<img src="https://github.com/user-attachments/assets/668c8a0b-2c4e-444e-a2a4-2b1712ec75f4" width="90%"></img>
 
 ## 历史存档
 
 ### 三岁的时候
 
+<img src="https://github.com/user-attachments/assets/43d619b7-b357-40c5-9449-b3de2f474922" width="90%"></img>
 <img src="https://github.com/user-attachments/assets/ba9232eb-4eef-4b31-99e5-c5143ebdf5b5" width="90%"></img>
 <img src="mdimg/image-613.png" width="90%"></img>
 <img src="https://github.com/user-attachments/assets/cc3c2f90-b4f3-41c8-b8e5-7ebe7e99cd9e" width="90%"></img>
