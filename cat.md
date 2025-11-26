@@ -1,6 +1,8 @@
-#  猫咪画廊
+#  猫咪画廊 
 
-## 小猫资料
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneargle%2Fneargle%2Fblob%2Fmain%2Fcat.md&label=Cat+Hits&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
+
+## 小猫资料 
 
 - 🐈 俺的名字：fufu，女孩子，祖籍泰国，是一只 _**淡蓝**色 **虎**斑 **暹**罗_ 猫（以上都是细分品种名🤣）。   
 - 🗓 生辰八字：6月15日出生，属兔，猫妈妈这一胎就她一只。两岁十斤，正在成长为胖狸花猫的路上（暹罗特性：变黑🤦‍♀️）。
@@ -8,7 +10,6 @@
 
 ## 小猫证件照
 <img src="https://github.com/user-attachments/assets/e873c866-20b3-4437-8058-cd9995ae0cd4" width="20%"></img>
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fneargle%2Fneargle%2Fblob%2Fmain%2Fcat.md&label=Cat+Hits&icon=github&color=%23198754&message=&style=flat-square&tz=UTC)
 
 ## 本周更新 - 小猫出演"疯狂动物城2"
 
