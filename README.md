@@ -1,7 +1,10 @@
 ## About " nearg1e " <a href="https://github.com/neargle/"><img height="30" src="./mdimg/kyubey.gif"></a>
 
 ### 🤔 近期相册分享 | Recent Photos Shared
-<img width="70%" alt="image" src="https://github.com/user-attachments/assets/738170fb-a2c2-4a09-96ce-d8bbc8825924" />
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/738170fb-a2c2-4a09-96ce-d8bbc8825924" />
+
+[🐈 每周猫片](https://github.com/neargle/neargle/blob/main/cat.md) · [🐮 推荐技术社群](https://github.com/neargle/neargle/blob/main/top-recs-zsxq.md)
 
 ### 📊 实时数据 | REAL-TIME DATA
 
@@ -17,8 +20,6 @@
 |-|-|
 |<img src="./mdimg/20220521123149.png" height="45"> <img src="https://user-images.githubusercontent.com/7868679/221470671-2ac40157-a72e-44c6-83e8-8286e1c7db6c.png" height="45"> <img src="./mdimg/20220521230036.png" height="45"> <img src="./mdimg/20220521225818.png" height="45">|<img src="./mdimg/20220521115419.png" height="45">|
 |HITB、 BlackHat、 WHC、CIS ...|Kubecon & CloudNativeCon ...|
-
-[🐈 每周更新猫片](https://github.com/neargle/neargle/blob/main/cat.md) | [🐮 推荐一些技术社群](https://github.com/neargle/neargle/blob/main/top-recs-zsxq.md)
 
 <details> 
 
