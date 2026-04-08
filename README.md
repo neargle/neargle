@@ -1,6 +1,6 @@
 ## About " nearg1e " <a href="https://github.com/neargle/"><img height="30" src="./mdimg/kyubey.gif"></a>
 
-### 🤔 近期相册分享 | Recent Photos Shared
+### 🤔 分享近期相册 | RECENT PHOTOS SHARED
 
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/738170fb-a2c2-4a09-96ce-d8bbc8825924" />
 
